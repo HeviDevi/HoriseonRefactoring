@@ -19,3 +19,5 @@ I acheived this by:
 -Adding a color palette to the logo that I find reminiscent of a beautiful sunrise on the open ocean 
 <br>
 ![](/assets/images/Screenshot_Horiseon_Advert.jpeg)
+
+Source code was provided to me by University of Central Florida via edX
