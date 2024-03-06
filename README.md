@@ -17,3 +17,5 @@ I acheived this by:
 -Increasing some font sizes so the website is a bit easier to read
 <br>
 -Adding a color palette to the logo that I find reminiscent of a beautiful sunrise on the open ocean 
+<br>
+![](/assets/images/Screenshot_Horiseon_Advert.jpeg)
